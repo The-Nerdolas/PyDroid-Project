@@ -1,0 +1,2 @@
+//Localização Do SDK - Exemplo: C\:\\SDK
+SEU-SDK-AQUI
