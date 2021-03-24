@@ -1,6 +1,6 @@
 # Criação do Projeto
 
-Para criar o projeto execute o CreateProject.py e siga os exemplos.
+Para criar o projeto execute o ```CreateProject.py``` e siga os exemplos.
 
 1. Escolha um nome para o seu projeto:
 
