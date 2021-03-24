@@ -7,4 +7,4 @@ Seguindo esse padrão: C\\:\\\path\\\SDK
 Imagem de Exemplo
 
 #### OBS:
-Não Altere a primeira linha.
+Não Altere a Primeira Linha.
