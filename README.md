@@ -12,9 +12,9 @@ win_x64
 ### Tutoriais
 
 - [Configuração do SDK](tutoriais/SDKConfig.md)
-- [Criação do Projeto]()
-- [Instalação de Dependencies (build.gradle)]()
-- [Instalar App]()
+- [Criação do Projeto](tutoriais/CriarProjeto.md)
+- [Instalação de Dependencies (build.gradle)](tutoriais/Dependencies.md)
+- [Instalar App](tutoriais/installApp.md)
 
 ### Edição dos Arquivos
 
