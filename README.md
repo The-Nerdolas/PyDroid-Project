@@ -4,8 +4,8 @@ Crie projetos Android de uma forma rápida sem exigir altos niveis de processame
 
 
 ### Testado:
+[python 3.6.4](https://www.python.org/downloads/release/python-364/)
 ``` css
-python 3.6.4
 win_x86
 win_x64
 ```
