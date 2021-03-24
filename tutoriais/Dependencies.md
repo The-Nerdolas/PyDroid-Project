@@ -2,7 +2,7 @@
 
 Ao contrário do Android Studio que gera 2 arquivos build.gradle, o PyDroid gera apenas 1, mas com as mesmas funcionalidades dos 2.
 
-Toda configuração que era feita no app/build.gradle agora é feita no build.gradle:
+Toda configuração que era feita no app/build.gradle agora é feita no ```build.gradle```:
 
 ``` gradle
 buildscript {
