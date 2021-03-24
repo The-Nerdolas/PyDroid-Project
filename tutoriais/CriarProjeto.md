@@ -2,7 +2,7 @@
 
 Para criar o projeto execute o CreateProject.py e siga os exemplos.
 
-1. Escolha um nome para seu projeto:
+1. Escolha um nome para o seu projeto:
 
 ![Create1](Create1.png)
 
