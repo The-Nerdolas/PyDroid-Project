@@ -1,7 +1,7 @@
 # Instalar App
 
 Para instalar o app certifique-se que haja um dispositivo conectado (emulador ou dispositivo físico)<br>
-Na pasta raiz do seu projeto, execute o arquivo installDebug.py<br>
+Na pasta raiz do seu projeto, execute o arquivo ```installDebug.py```<br>
 Espere a construção do projeto
 
 #### OBS:
