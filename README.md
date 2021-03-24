@@ -18,7 +18,8 @@ win_x64
 
 ### Edição dos Arquivos
 
-- Eclipse Luna + plugin ADT (RECOMENDADO PARA COMPUTADORES QUE NÃO SUPORTAM ANDROID STUDIO)
+- [Eclipse Luna](https://www.eclipse.org/downloads/packages/release/luna/sr2/eclipse-ide-java-ee-developers) + [plugin ADT](https://dl-ssl.google.com/android/eclipse/)
+(RECOMENDADO PARA COMPUTADORES QUE NÃO SUPORTAM ANDROID STUDIO)
 - Notepad++
 - Sublime Text
 - IntelliJ IDEA
