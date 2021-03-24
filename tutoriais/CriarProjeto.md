@@ -17,5 +17,4 @@ Para criar o projeto execute o CreateProject.py e siga os exemplos.
 
 ![Create3](Create3.png)
 
-4. Espere alguns minutos (Dependendo das configurações do seu computador) para que faça a configuração dos arquivos. Quando surgir um sorriso :) o projeto estará pronto,
-ou quando o terminal fechar sozinho.
+4. Espere alguns minutos (Dependendo das configurações do seu computador). O projeto estará pronto quando surgir um sorriso : ), ou quando o terminal fechar.
