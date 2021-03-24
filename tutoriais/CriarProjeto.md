@@ -2,9 +2,20 @@
 
 Para criar o projeto execute o CreateProject.py e siga os exemplos.
 
-1. ![Create1](Create1.png)
+1. Escolha um nome para seu projeto:
 
-Escolha um nome para seu projeto
+![Create1](Create1.png)
 
-3. ![Create2](Create2.png)
-4. ![Create3](Create3.png)
+
+
+2. Coloque o nome do pacote (com.nomedopacote.br):
+
+![Create2](Create2.png)
+
+3. Coloque o local que será gerado o projeto:
+##### OBS: Coloque uma \ no final do caminho para evitar erros.
+
+![Create3](Create3.png)
+
+4. Espere alguns minutos (Dependendo das configurações do seu computador) para que faça a configuração dos arquivos. Quando surgir um sorriso :) o projeto estará pronto,
+ou quando o terminal fechar sozinho.
