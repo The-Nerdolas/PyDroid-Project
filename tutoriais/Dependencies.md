@@ -4,6 +4,7 @@ Ao contrário do Android Studio que gera 2 arquivos build.gradle, o PyDroid gera
 
 Toda configuração que era feita no app/build.gradle agora é feita no build.gradle:
 
+``` gradle
 buildscript {
     
     repositories {
@@ -61,3 +62,4 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
+```
