@@ -10,5 +10,5 @@ win_x64
 ```
 ### Tutoriais
 
-- [Configuração do SDK]()
+- [Configuração do SDK](tutoriais/SDKConfig.md)
 - 
