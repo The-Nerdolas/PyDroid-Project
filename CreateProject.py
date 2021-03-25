@@ -58,6 +58,14 @@ def execGradle(path,nameProject):
     
 
 def modifArq(path,nameProject,packageName):
+    #import android.support.v7.app.AppCompatActivity;
+    pacoteList = packageName.split('.')
+    java = open(path + nameProject + "/src/main/java/" + pacoteList[0] + "/" + pacoteList[1] + "/" + pacoteList[2] +"/MainActivity.java","r")
+    javaL = java.readlines()
+    javaL.insert(1,"\nimport android.support.v7.app.AppCompatActivity;")
+    java = open(path + nameProject + "/src/main/java/" + pacoteList[0] + "/" + pacoteList[1] + "/" + pacoteList[2] +"/MainActivity.java","w")
+    java.writelines(javaL)
+    java.close()
     #Apagar arquivos desnecessários do projeto
     for i in os.listdir(path + nameProject + "/src/main/res/"):
         if(i != "layout"):
