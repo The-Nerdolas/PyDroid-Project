@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.calculadora.br"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:6:5-20:19
+12        android:allowBackup="true"
+12-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] C:\Users\Programacao\.gradle\caches\transforms-2\files-2.1\f1491a81a65d4033a56d6549564e765e\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:8:9-43
+16        android:label="Calculadora"
+16-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:9:1-28
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:10:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:11:9-35
+19        android:theme="@style/AppTheme" >
+19-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:12:9-40
+20        <activity android:name="com.calculadora.br.MainActivity" >
+20-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:13:9-19:20
+20-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:13:19-47
+21            <intent-filter>
+21-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:14:13-18:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:15:17-69
+22-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:15:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:17:17-77
+24-->C:\Users\Programacao\Desktop\Calculadora\src\main\AndroidManifest.xml:17:27-74
+25            </intent-filter>
+26        </activity>
+27
+28        <provider
+28-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Programacao\.gradle\caches\transforms-2\files-2.1\20c81e5c56d3b9f6f94749db2b4ca94c\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+29            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+29-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Programacao\.gradle\caches\transforms-2\files-2.1\20c81e5c56d3b9f6f94749db2b4ca94c\extensions-1.1.1\AndroidManifest.xml:24:13-83
+30            android:authorities="com.calculadora.br.lifecycle-trojan"
+30-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Programacao\.gradle\caches\transforms-2\files-2.1\20c81e5c56d3b9f6f94749db2b4ca94c\extensions-1.1.1\AndroidManifest.xml:25:13-68
+31            android:exported="false"
+31-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Programacao\.gradle\caches\transforms-2\files-2.1\20c81e5c56d3b9f6f94749db2b4ca94c\extensions-1.1.1\AndroidManifest.xml:26:13-37
+32            android:multiprocess="true" />
+32-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\Programacao\.gradle\caches\transforms-2\files-2.1\20c81e5c56d3b9f6f94749db2b4ca94c\extensions-1.1.1\AndroidManifest.xml:27:13-40
+33    </application>
+34
+35</manifest>

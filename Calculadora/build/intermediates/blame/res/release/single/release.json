@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Programacao\\Desktop\\Calculadora\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Programacao\\Desktop\\Calculadora\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Programacao\\Desktop\\Calculadora\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Programacao\\Desktop\\Calculadora\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Programacao\\Desktop\\Calculadora\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Programacao\\Desktop\\Calculadora\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Programacao\\Desktop\\Calculadora\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "C:\\Users\\Programacao\\Desktop\\Calculadora\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Programacao\\Desktop\\Calculadora\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Programacao\\Desktop\\Calculadora\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

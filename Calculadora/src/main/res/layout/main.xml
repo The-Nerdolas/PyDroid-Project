@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1C1C1C"
+    android:padding="10dp"
+    tools:context=".MainActivity"
+    tools:ignore="HardcodedText" >
+
+    <EditText
+        android:id="@+id/edtVal1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/shap_edt"
+        android:hint="valor1"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtVal2"
+		android:inputType="numberDecimal"
+	    android:background="@drawable/shap_edt"
+        android:hint="valor2"/>
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btSom"
+        android:text="Somar"
+        android:textColor="#fff"
+        android:background="@drawable/shap_soma"/>
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btSub"
+        android:text="Subtrair"
+        android:background="@drawable/shap_sub"/>
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btMult"
+        android:text="Multiplicar"
+        android:background="@drawable/shap_multi"/>
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btDiv"
+        android:text="Dividir"
+        android:background="@drawable/shap_div"/>
+
+</LinearLayout>
