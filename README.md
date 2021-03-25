@@ -25,6 +25,8 @@ win_x64
 - IntelliJ IDEA
 - Android Studio
 
+# Calculadora Feita no Eclipse usando o PyDroid
+![calculadora](tutoriais/calc.jpg)
 <br>
 <br>
 <br>
