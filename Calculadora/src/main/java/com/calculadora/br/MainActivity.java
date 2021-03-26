@@ -62,19 +62,21 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         
-        if(val2.getText().toString() == "0"){
-            Toast.makeText(MainActivity.this, "Impossível dividir por zero!", Toast.LENGTH_SHORT).show();
+        
+         //Diviso
+        btDiv.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(val2.getText().toString() == "0"){
+                    Toast.makeText(MainActivity.this, "Impossível dividir por zero!", Toast.LENGTH_SHORT).show();
 
-        }else if(!vazio()){
-        	 //Diviso
-            btDiv.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
+                }else if(!vazio()){
                     double result = Double.parseDouble(val1.getText().toString()) / Double.parseDouble(val2.getText().toString());
                     Toast.makeText(MainActivity.this, "Resultado: " + result, Toast.LENGTH_SHORT).show();
                 }
-            });
-        }
+            }
+        });
+        
         
        
     }
