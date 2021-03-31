@@ -15,6 +15,7 @@ win_x64
 - [Criação do Projeto](tutoriais/CriarProjeto.md)
 - [Instalação de Dependencies (build.gradle)](tutoriais/Dependencies.md)
 - [Instalar App](tutoriais/installApp.md)
+- [+ Infos](Instalação do PyDroid com Eclipse Luna.pdf)
 
 ### Edição dos Arquivos
 
